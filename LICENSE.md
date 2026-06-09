@@ -1,4 +1,4 @@
-# 
+# Open Source auto-leverage trading bot templates for Mac OS | Smart auto-leverage trading bot templates for PC Windows. Featuring sandwich attack detection and dex liquidity pools — optimized for maximum performance on every platform.
 
 
 
